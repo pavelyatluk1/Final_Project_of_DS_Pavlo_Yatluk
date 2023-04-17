@@ -1,0 +1,6 @@
+Result of ML model scoring;;;;;;
+ü;Model;Metrics;;;;
+;;R^2, train;R^2, test;mae;mse;rmse
+1;Linear Regression;0,2933;0,3125;34,86;2 497,64;49,98
+2;Tree Desission Regression;0,9983;0,5679;22,04;1 569,50;39,62
+3;XGB Regression;0,9282;0,8046;15,96;709,78;26,64
